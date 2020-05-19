@@ -1,0 +1,12 @@
+.search-input {
+    width: auto;
+    flex-grow: 1;
+    margin-right: 3px;
+    border: 1px solid grey;
+    border-radius: 3px;
+    padding-left:15px ;
+}
+.search-wrap {
+    display: flex;
+    margin: 10px auto;
+}

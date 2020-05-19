@@ -1,0 +1,32 @@
+.btn-group {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.new-task{
+  width:550px;
+}
+
+.taskWrap {
+  margin: 30px auto;
+  background: #eef;
+  padding: 20px;
+  border-radius: 10px;
+  width: 700px;
+  box-shadow: 2px 2px 15px 4px grey;
+}
+
+.headTitle {
+  background: green;
+}
+
+input[type="text"] {
+  margin-right: 20px;
+}
+.App {
+  margin: 0 auto;
+  width: 700px;
+  margin-top: 10vh;
+  border-radius: 10px;
+}
